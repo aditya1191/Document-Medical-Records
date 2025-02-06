@@ -1,6 +1,6 @@
-# Medical system
+# Document Medical Records
 
-Medical system is a small application build with ASP.NET 5 and EF to document medical records. 
+Document Medical Records is a small application build with ASP.NET 5 and EF to document medical records. 
 User can store doctor, patient and consultation information in this application with their web browser.
 This is a proof of concept of how we can use microservice with ASP.NET 5. 
 
